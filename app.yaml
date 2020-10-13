@@ -2,4 +2,4 @@ runtime: python37
 
 handlers:
 - url: /.*
-  script: code.py
+  script: auto
